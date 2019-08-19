@@ -1,9 +1,6 @@
 # Radarr Api
 A wrapper around the radarr JSON api
 
-# Installation
-    python3 -m pip install radarr-api
-
 # Usage
 ```python
 radarr_api = RadarrAPI(api_key='API_KEY_HERE')
